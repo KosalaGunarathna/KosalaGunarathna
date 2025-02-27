@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **kosalagunarathne9@gmail.com**
 
-- - 💬 Ask me about Sql, Java, php, JavaScript**
+- 💬 Ask me about Sql, Java, php, JavaScript
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
