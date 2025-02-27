@@ -1,9 +1,11 @@
 <h1 align="center">Hi 👋, I'm Kosala</h1>
 <h3 align="center">BICT Undergraduate at the University of Ruhuna</h3>
 
-- 🌱 I’m currently learning **Software Developer**
+- 🌱 I’m currently learning **GitHub,java,flutter**
 
 - 📫 How to reach me **kosalagunarathne9@gmail.com**
+
+- - 💬 Ask me about Sql, Java, php, JavaScript**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
