@@ -14,10 +14,9 @@
 
 
 
-
 <h3 align="left">Languages and Tools:</h3>
 
-<p align="left" style="display: flex; flex-wrap: wrap; gap: 10px;">
+<p align="left" style="white-space: nowrap; overflow-x: auto;">
   <a href="https://www.arduino.cc/" target="_blank">
     <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" width="40"/>
   </a>
@@ -41,5 +40,11 @@
   </a>
   <a href="https://nodejs.org" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40"/>
+  </a>
+  <a href="https://www.python.org" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/>
+  </a>
+  <a href="https://www.php.net" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="40"/>
   </a>
 </p>
